@@ -1,0 +1,667 @@
+id,name,gender,bating_style,bowling_style,playing_role,country_id
+935995,Afif Hossain,M,left-hand bat,right-arm offbreak,allrounder,25
+380354,Anamul Haque,M,right-hand bat,,wicketkeeper batter,25
+1346729,Dilara Akter,F,right-hand bat,,wicketkeeper batter,25
+932355,Ebadot Hossain,M,right-hand bat,right-arm fast-medium,bowler,25
+627048,Fahima Khatun,F,right-hand bat,legbreak,bowler,25
+486995,Fargana Hoque,M,right-hand bat,,top-order batter,25
+1195124,Fariha Trisna,F,right-hand bat,left-arm medium,bowler,25
+926629,Hasan Mahmud,M,right-hand bat,right-arm medium,bowler,25
+343649,Jahanara Alam,F,right-hand bat,right-arm medium,bowler,25
+927619,Khaled Ahmed,M,right-hand bat,right-arm medium,bowler,25
+346295,Lata Mondal,F,right-hand bat,right-arm medium,allrounder,25
+536936,Litton Das,M,right-hand bat,right-arm offbreak,wicketkeeper batter,25
+833087,Mahedi Hasan,M,right-hand bat,right-arm offbreak,allrounder,25
+1161381,Mahmudul Hasan Joy,M,right-hand bat,,top-order batter,25
+56025,Mahmudullah,M,right-hand bat,right-arm offbreak,allrounder,25
+1332561,Marufa Akter,F,right-hand bat,right-arm medium-fast,bowler,25
+629063,Mehidy Hasan Miraz,M,right-hand bat,right-arm offbreak,allrounder,25
+990081,Mohammad Naim,M,left-hand bat,,opening batter,25
+629070,Mohammad Saifuddin,M,left-hand bat,right-arm medium-fast,bowling allrounder,25
+373696,Mominul Haque,M,left-hand bat,slow left-arm orthodox,middle-order batter,25
+550133,Mosaddek Hossain,M,right-hand bat,right-arm offbreak,middle-order batter,25
+1145089,S Mostary,F,right-hand bat,right-arm medium,middle-order batter,25
+549950,Munim Shahriar,M,right-hand bat,right-arm medium-fast,batter,25
+1080264,Murshida Khatun,F,left-hand bat,,opening batter,25
+56029,Mushfiqur Rahim,M,right-hand bat,,wicketkeeper batter,25
+330902,Mustafizur Rahman,M,left-hand bat,left-arm fast-medium,bowler,25
+924183,Nahida Akter,F,right-hand bat,slow left-arm orthodox,bowler,25
+629058,Najmul Hossain Shanto,M,left-hand bat,right-arm offbreak,top-order batter,25
+348049,Nasum Ahmed,M,left-hand bat,slow left-arm orthodox,bowler,25
+932635,Nayeem Hasan,M,right-hand bat,right-arm offbreak,bowler,25
+924177,Nigar Sultana,F,right-hand bat,,wicketkeeper batter,25
+410765,Nurul Hasan,M,right-hand bat,,wicketkeeper batter,25
+1139511,Parvez Hossain Emon,M,left-hand bat,,wicketkeeper batter,25
+1204964,Rabeya Khan,F,right-hand bat,legbreak,allrounder,25
+478808,Ritu Moni,F,right-hand bat,right-arm medium,allrounder,25
+343648,Rumana Ahmed,F,right-hand bat,legbreak,allrounder,25
+373538,Sabbir Rahman,M,right-hand bat,legbreak,middle-order batter,25
+301603,Salma Khatun,F,right-hand bat,right-arm offbreak,allrounder,25
+1205142,Sanjida Akter Meghla,F,right-hand bat,slow left-arm orthodox,bowler,25
+629057,Shadman Islam,M,left-hand bat,slow left-arm orthodox,opening batter,25
+420402,Afsar Zazai,M,right-hand bat,,wicketkeeper batter,40
+819429,Azmatullah Omarzai,M,right-hand bat,right-arm medium-fast,allrounder,40
+819441,Darwish Rasooli,M,right-hand bat,right-arm offbreak,top-order batter,40
+568136,Fareed Ahmad,M,left-hand bat,left-arm fast-medium,bowler,40
+974175,Fazalhaq Farooqi,M,right-hand bat,left-arm fast-medium,bowler,40
+352048,Gulbadin Naib,M,right-hand bat,right-arm medium-fast,batting allrounder,40
+440970,Hashmatullah Shahidi,M,left-hand bat,right-arm offbreak,top-order batter,40
+793457,Hazratullah Zazai,M,left-hand bat,slow left-arm orthodox,opening batter,40
+921509,Ibrahim Zadran,M,right-hand bat,right-arm medium-fast,opening batter,40
+703323,Ihsanullah,M,right-hand bat,,top-order batter,40
+793467,Karim Janat,M,right-hand bat,right-arm medium,bowling allrounder,40
+25913,Mohammad Nabi,M,right-hand bat,right-arm offbreak,allrounder,40
+974109,Mujeeb Ur Rahman,M,right-hand bat,right-arm offbreak,bowler,40
+524049,Najibullah Zadran,M,left-hand bat,right-arm offbreak,middle-order batter,40
+793447,Naveen-ul-Haq,M,right-hand bat,right-arm medium-fast,bowler,40
+913843,Nijat Masood,M,right-hand bat,right-arm medium,bowler,40
+1182529,Noor Ahmad,M,right-hand bat,left-arm wrist-spin,bowler,40
+914171,Qais Ahmad,M,right-hand bat,legbreak,bowler,40
+974087,Rahmanullah Gurbaz,M,right-hand bat,,wicketkeeper batter,40
+533956,Rahmat Shah,M,right-hand bat,legbreak googly,allrounder,40
+793463,Rashid Khan,M,right-hand bat,legbreak googly,bowling allrounder,40
+1061090,Riaz Hassan,M,right-hand bat,,,40
+318339,Samiullah Shinwari,M,right-hand bat,legbreak,allrounder,40
+633362,Sharafuddin Ashraf,M,right-hand bat,slow left-arm orthodox,allrounder,40
+711559,Usman Ghani,M,right-hand bat,,opening batter,40
+440968,Yamin Ahmadzai,M,right-hand bat,right-arm medium-fast,bowler,40
+959759,FH Allen,M,right-hand bat,,top-order batter,5
+54565,SW Bates,F,right-hand bat,right-arm medium,allrounder,5
+499247,B Bezuidenhout,F,right-hand bat,,top-order batter,5
+440516,TA Blundell,M,right-hand bat,right-arm offbreak,wicketkeeper batter,5
+277912,TA Boult,M,right-hand bat,left-arm fast-medium,bowler,5
+362541,DAJ Bracewell,M,right-hand bat,right-arm fast-medium,bowler,5
+326968,MG Bracewell,M,left-hand bat,right-arm offbreak,batting allrounder,5
+544558,RM Burns,F,right-hand bat,right-arm offbreak,,5
+1169661,EJ Carson,M,right-hand bat,right-arm offbreak,bowler,5
+438563,MS Chapman,M,left-hand bat,slow left-arm orthodox,allrounder,5
+440517,D Cleaver,M,right-hand bat,legbreak,wicketkeeper batter,5
+379140,DP Conway,M,left-hand bat,right-arm medium,wicketkeeper batter,5
+55395,C de Grandhomme,M,right-hand bat,right-arm medium-fast,allrounder,5
+231740,SFM Devine,F,right-hand bat,right-arm medium,batting allrounder,5
+543466,LR Down,F,right-hand bat,right-arm medium,batter,5
+547766,JA Duffy,M,right-hand bat,right-arm fast-medium,bowler,5
+493773,LH Ferguson,M,right-hand bat,right-arm fast,bowler,5
+1211545,IC Gaze,F,right-hand bat,,wicketkeeper batter,5
+438265,ML Green,F,right-hand bat,right-arm offbreak,middle-order batter,5
+226492,MJ Guptill,M,right-hand bat,right-arm offbreak,opening batter,5
+594654,BM Halliday,F,left-hand bat,right-arm medium,allrounder,5
+506612,MJ Henry,M,right-hand bat,right-arm fast-medium,bowler,5
+625960,KA Jamieson,M,right-hand bat,right-arm fast-medium,bowler,5
+439029,HNK Jensen,F,right-hand bat,right-arm medium,bowler,5
+1208952,FC Jonas,F,right-hand bat,slow left-arm orthodox,bowler,5
+803971,AC Kerr,F,right-hand bat,legbreak,allrounder,5
+1068933,JM Kerr,F,right-hand bat,right-arm medium,bowler,5
+388802,TWM Latham,M,left-hand bat,right-arm medium,wicketkeeper batter,5
+1125536,BG Lister,M,right-hand bat,left-arm medium,bowler,5
+312174,FL Mackay,F,right-hand bat,right-arm offbreak,opening batter,5
+701751,RA Mair,F,right-hand bat,right-arm medium,bowler,5
+54537,KJ Martin,F,right-hand bat,,wicketkeeper batter,5
+385029,JT McFadyen,F,right-hand bat,,wicketkeeper,5
+450860,AF Milne,M,right-hand bat,right-arm fast,bowler,5
+381743,DJ Mitchell,M,right-hand bat,right-arm medium,allrounder,5
+355269,JDS Neesham,M,left-hand bat,right-arm medium-fast,batting allrounder,5
+539511,HM Nicholls,M,left-hand bat,right-arm offbreak,top-order batter,5
+595783,AY Patel,M,left-hand bat,slow left-arm orthodox,bowler,5
+1239671,MM Penfold,F,right-hand bat,right-arm medium,bowler,5
+823509,GD Phillips,M,right-hand bat,right-arm offbreak,wicketkeeper batter,5
+468573,GR Adair,M,right-hand bat,slow left-arm orthodox,,29
+526441,MR Adair,M,right-hand bat,right-arm fast-medium,bowling allrounder,29
+303423,A Balbirnie,M,right-hand bat,right-arm offbreak,batter,29
+595921,C Campher,M,right-hand bat,right-arm medium-fast,allrounder,29
+1229015,A Canning,F,right-hand bat,right-arm medium,bowler,29
+594992,M Commins,M,left-hand bat,,batter,29
+1229005,A Dalzell,F,right-hand bat,right-arm medium,,29
+1099379,GJ Delany,M,right-hand bat,legbreak googly,batting allrounder,29
+418420,L Delany,F,right-hand bat,right-arm medium,allrounder,29
+1229017,G Dempsey,F,right-hand bat,right-arm medium,allrounder,29
+348034,GH Dockrell,M,right-hand bat,slow left-arm orthodox,allrounder,29
+961401,ST Doheny,M,right-hand bat,,opening batter,29
+1229023,S Forbes,F,right-hand bat,,,29
+303508,SC Getkate,M,right-hand bat,right-arm medium-fast,allrounder,29
+1099225,F Hand,M,right-hand bat,right-arm medium,bowling allrounder,29
+379144,GI Hume,M,left-hand bat,right-arm fast-medium,bowler,29
+1229014,A Hunter,F,right-hand bat,,wicketkeeper batter,29
+571707,TE Kane,M,right-hand bat,right-arm medium-fast,bowler,29
+418422,SM Kavanagh,F,right-hand bat,right-arm medium,middle-order batter,29
+592593,AN Kelly,M,right-hand bat,right-arm medium,allrounder,29
+774347,GH Lewis,F,right-hand bat,legbreak,allrounder,29
+928067,JB Little,M,right-hand bat,left-arm fast-medium,bowler,29
+1094718,L Little,F,right-hand bat,right-arm medium,,29
+1094720,S MacMahon,M,right-hand bat,right-arm medium,,29
+1229018,J Maguire,F,right-hand bat,right-arm medium,bowler,29
+417381,AR McBrine,M,left-hand bat,right-arm offbreak,bowler,29
+348059,BJ McCarthy,M,right-hand bat,right-arm fast-medium,bowler,29
+1135028,C Murray,F,right-hand bat,"legbreak,legbreak",bowler,29
+1229953,C Olphert,M,right-hand bat,right-arm medium,bowler,29
+1026403,L Paul,F,left-hand bat,slow left-arm orthodox,allrounder,29
+1150585,O Prendergast,F,right-hand bat,"right-arm medium-fast,right-arm medium",allrounder,29
+792135,C Raack,F,right-hand bat,legbreak,,29
+1094716,Rachel Delaney,F,right-hand bat,right-arm offbreak,allrounder,29
+54945,EAJ Richardson,F,right-hand bat,right-arm offbreak,allrounder,29
+1112535,NA Rock,M,left-hand bat,,wicketkeeper batter,29
+1005257,Simi Singh,M,right-hand bat,"right-arm offbreak,legbreak googly",bowling allrounder,29
+303427,PR Stirling,M,right-hand bat,right-arm offbreak,batting allrounder,29
+1094717,R Stokell,F,right-hand bat,"right-arm fast-medium,right-arm medium",batter,29
+961407,HT Tector,M,right-hand bat,right-arm offbreak,middle-order batter,29
+928057,LJ Tucker,M,right-hand bat,,wicketkeeper batter,29
+8917,MM Ali,M,left-hand bat,right-arm offbreak,batting allrounder,1
+8608,JM Anderson,M,left-hand bat,right-arm fast-medium,bowler,1
+669855,JC Archer,M,right-hand bat,right-arm fast,bowler,1
+297433,JM Bairstow,M,right-hand bat,right-arm medium,wicketkeeper batter,1
+297074,TT Beaumont,F,right-hand bat,,opening batter,1
+878025,LK Bell,M,right-hand bat,right-arm fast-medium,bowler,1
+297628,SW Billings,M,right-hand bat,,wicketkeeper batter,1
+1022077,ME Bouchier,F,right-hand bat,right-arm medium,middle-order batter,1
+10617,SCJ Broad,M,left-hand bat,right-arm fast-medium,bowler,1
+911707,HC Brook,M,right-hand bat,right-arm medium,batter,1
+53906,KH Brunt,F,right-hand bat,right-arm medium-fast,bowling allrounder,1
+308967,JC Buttler,M,right-hand bat,,wicketkeeper batter,1
+1187120,A Capsey,F,right-hand bat,right-arm offbreak,batting allrounder,1
+596417,BA Carse,M,right-hand bat,right-arm fast,bowler,1
+665053,Z Crawley,M,right-hand bat,right-arm offbreak,top-order batter,1
+297085,KL Cross,F,right-hand bat,right-arm medium-fast,bowler,1
+662973,SM Curran,M,left-hand bat,left-arm medium-fast,allrounder,1
+515876,AN Davidson-Richards,F,right-hand bat,right-arm fast-medium,bowling allrounder,1
+652945,FR Davies,F,right-hand bat,right-arm fast-medium,bowler,1
+211855,LA Dawson,M,right-hand bat,slow left-arm orthodox,allrounder,1
+1039421,CE Dean,F,right-hand bat,right-arm offbreak,bowling allrounder,1
+521637,BM Duckett,M,left-hand bat,right-arm offbreak,top-order batter,1
+885815,SIR Dunkley,M,right-hand bat,legbreak,batting allrounder,1
+878039,S Ecclestone,F,right-hand bat,slow left-arm orthodox,bowler,1
+639080,MD Fisher,M,right-hand bat,right-arm fast-medium,bowler,1
+364788,BT Foakes,M,right-hand bat,,wicketkeeper batter,1
+473191,RJ Gleeson,M,right-hand bat,right-arm fast-medium,bowler,1
+885837,S Glenn,F,right-hand bat,legbreak,bowling allrounder,1
+249866,AD Hales,M,right-hand bat,right-arm medium,opening batter,1
+897549,WG Jacks,M,right-hand bat,right-arm offbreak,batter,1
+515874,AE Jones,F,right-hand bat,,wicketkeeper batter,1
+288992,CJ Jordan,M,right-hand bat,right-arm fast-medium,bowler,1
+1195947,FG Kemp,F,left-hand bat,left-arm medium,bowler,1
+358259,HC Knight,F,right-hand bat,right-arm offbreak,middle-order batter,1
+749957,EL Lamb,F,right-hand bat,right-arm offbreak,batting allrounder,1
+641423,DW Lawrence,M,right-hand bat,right-arm offbreak,middle-order batter,1
+455524,MJ Leach,M,left-hand bat,slow left-arm orthodox,bowler,1
+460756,AZ Lees,M,left-hand bat,legbreak,opening batter,1
+403902,LS Livingstone,M,right-hand bat,legbreak,batting allrounder,1
+643885,S Mahmood,M,right-hand bat,right-arm fast-medium,bowler,1
+232438,GS Ballance,M,left-hand bat,legbreak,middle-order batter,9
+495964,RP Burl,M,left-hand bat,legbreak,middle-order batter,9
+293831,RW Chakabva,M,right-hand bat,right-arm offbreak,wicketkeeper batter,9
+425639,TL Chatara,M,right-hand bat,right-arm fast-medium,bowler,9
+317146,C Chatonzwa,F,right-hand bat,right-arm offbreak,,9
+55354,CJ Chibhabha,M,right-hand bat,right-arm medium,top-order batter,9
+1119417,F Chipare,M,right-hand bat,right-arm medium,,9
+1059122,TL Chivanga,M,right-hand bat,right-arm fast,bowler,9
+1094714,CT Dhururu,M,right-hand bat,,wicketkeeper,9
+55412,CR Ervine,M,left-hand bat,right-arm offbreak,middle-order batter,9
+696127,B Evans,M,right-hand bat,right-arm fast,allrounder,9
+922491,N Gwanzura,F,right-hand bat,right-arm medium,,9
+541224,LM Jongwe,M,right-hand bat,right-arm fast-medium,bowler,9
+465327,I Kaia,M,right-hand bat,legbreak,opening batter,9
+493765,T Kaitano,M,right-hand bat,right-arm offbreak,opening batter,9
+1045883,C Madande,M,right-hand bat,,wicketkeeper batter,9
+938959,W Madhevere,M,right-hand bat,right-arm offbreak,allrounder,9
+1037845,T Makoni,M,right-hand bat,right-arm medium,opening batter,9
+317139,P Marange,F,left-hand bat,right-arm offbreak,,9
+946507,T Marumani,M,left-hand bat,right-arm offbreak,top-order batter,9
+571703,WP Masakadza,M,left-hand bat,slow left-arm orthodox,bowler,9
+722313,JK Masara,M,right-hand bat,legbreak,,9
+1273947,M Mavunga,F,right-hand bat,right-arm medium-fast,bowling allrounder,9
+806239,B Mavuta,M,right-hand bat,legbreak,allrounder,9
+317144,SM Mayers,F,right-hand bat,right-arm offbreak,,9
+538592,A Mazvishaya,F,right-hand bat,right-arm medium,,9
+638263,E Mbofana,F,right-hand bat,right-arm medium,,9
+317148,CS Mugeri-Tiripano,M,left-hand bat,right-arm medium,allrounder,9
+272026,P Mujaji,F,right-hand bat,right-arm medium-fast,,9
+1122853,T Munyonga,M,right-hand bat,right-arm offbreak,allrounder,9
+538591,M Mupachikwa,F,right-hand bat,,,9
+596375,TK Musakanda,M,right-hand bat,"right-arm medium,right-arm slow-medium",top-order batter,9
+922493,AC Mushangwe,F,right-hand bat,legbreak,bowler,9
+501348,M Musonda,F,right-hand bat,right-arm offbreak,,9
+235516,R Mutumbami,M,right-hand bat,right-arm offbreak,wicketkeeper batter,9
+827051,B Muzarabani,M,right-hand bat,right-arm fast-medium,bowler,9
+946517,D Myers,M,right-hand bat,right-arm medium,top-order batter,9
+1250707,KT Ndhlovu,F,left-hand bat,"slow left-arm orthodox,slow left-arm orthodox",allrounder,9
+596456,A Ndlovu,M,right-hand bat,slow left-arm orthodox,bowler,9
+806241,R Ngarava,M,left-hand bat,left-arm fast-medium,bowler,9
+670013,FA Allen,M,right-hand bat,slow left-arm orthodox,bowling allrounder,4
+661441,AA Alleyne,F,right-hand bat,right-arm medium,bowler,4
+431909,J Blackwood,M,right-hand bat,right-arm offbreak,middle-order batter,4
+314650,NE Bonner,M,right-hand bat,legbreak,middle-order batter,4
+348024,KC Brathwaite,M,right-hand bat,right-arm offbreak,opening batter,4
+230555,SSJ Brooks,M,right-hand bat,legbreak,top-order batter,4
+663639,SJ Bruce,F,left-hand bat,right-arm medium,,4
+348026,JD Campbell,M,left-hand bat,right-arm offbreak,opening batter,4
+424631,SA Campbelle,F,right-hand bat,right-arm medium-fast,middle-order batter,4
+431902,Y Cariah,M,left-hand bat,legbreak,bowler,4
+820677,KU Carty,M,right-hand bat,right-arm medium,batter,4
+601968,T Chanderpaul,M,left-hand bat,legbreak,opening batter,4
+333066,J Charles,M,right-hand bat,,wicketkeeper batter,4
+391832,RL Chase,M,right-hand bat,right-arm offbreak,allrounder,4
+474191,SS Connell,F,right-hand bat,right-arm fast,bowler,4
+424629,B Cooper,F,right-hand bat,right-arm fast-medium,middle-order batter,4
+495551,SS Cottrell,M,right-hand bat,left-arm fast-medium,bowler,4
+1168667,J Da Silva,M,right-hand bat,,wicketkeeper batter,4
+355349,DJS Dottin,F,right-hand bat,right-arm fast-medium,allrounder,4
+906749,DC Drakes,M,left-hand bat,left-arm medium-fast,bowling allrounder,4
+474196,KO Elliott,F,right-hand bat,legbreak,,4
+355351,ASS Fletcher,F,right-hand bat,legbreak,bowler,4
+1214080,CS Fraser,F,left-hand bat,right-arm medium-fast,allrounder,4
+1199630,S Gajnabi,F,right-hand bat,right-arm medium,bowler,4
+1268602,J Glasgow,M,left-hand bat,right-arm fast-medium,bowler,4
+909779,SS Grimmond,F,right-hand bat,right-arm offbreak,bowler,4
+474190,CA Henry,F,right-hand bat,right-arm medium-fast,middle-order batter,4
+670025,SO Hetmyer,M,left-hand bat,,top-order batter,4
+391485,JO Holder,M,right-hand bat,right-arm medium-fast,bowling allrounder,4
+1325396,T Holder,F,right-hand bat,right-arm medium,allrounder,4
+581379,SD Hope,M,right-hand bat,,wicketkeeper batter,4
+530812,AJ Hosein,M,left-hand bat,slow left-arm orthodox,bowler,4
+670031,AS Joseph,M,right-hand bat,right-arm fast,bowler,4
+1349230,D Joseph,F,right-hand bat,right-arm medium,batting allrounder,4
+670035,BA King,M,right-hand bat,,top-order batter,4
+472977,Kyshona A Knight,F,left-hand bat,right-arm medium,middle-order batter,4
+472975,Kycia A Knight,F,left-hand bat,,wicketkeeper batter,4
+431901,E Lewis,M,left-hand bat,,opening batter,4
+1086206,SH Lewis,M,right-hand bat,right-arm fast,bowler,4
+474308,HK Matthews,F,right-hand bat,right-arm offbreak,opening batter,4
+56143,Shakib Al Hasan,M,left-hand bat,slow left-arm orthodox,allrounder,25
+535870,Shamima Sultana,F,right-hand bat,,wicketkeeper batter,25
+535868,Sharmin Akhter,F,right-hand bat,,opening batter,25
+535866,Shohely Akhter,F,right-hand bat,right-arm offbreak,,25
+990039,Shoriful Islam,M,left-hand bat,left-arm medium-fast,bowler,25
+1352206,Shorna Akter,F,right-hand bat,legbreak,allrounder,25
+436677,Soumya Sarkar,M,left-hand bat,right-arm medium-fast,middle-order batter,25
+401057,Taijul Islam,M,left-hand bat,slow left-arm orthodox,bowler,25
+56194,Tamim Iqbal,M,left-hand bat,,opening batter,25
+538506,Taskin Ahmed,M,left-hand bat,right-arm fast,bowler,25
+629059,Yasir Ali,M,right-hand bat,right-arm offbreak,middle-order batter,25
+697059,Zakir Hasan,M,left-hand bat,,wicketkeeper batter,25
+398666,SA Abbott,M,right-hand bat,right-arm fast-medium,allrounder,2
+505120,AC Agar,M,left-hand bat,slow left-arm orthodox,bowler,2
+272477,JP Behrendorff,M,right-hand bat,left-arm fast-medium,bowler,2
+446548,SM Boland,M,right-hand bat,right-arm fast-medium,bowler,2
+388845,D Brown,F,right-hand bat,right-arm fast,bowler,2
+326434,AT Carey,M,left-hand bat,,wicketkeeper batter,2
+381217,NJ Carey,F,left-hand bat,right-arm medium,bowler,2
+489889,PJ Cummins,M,right-hand bat,right-arm fast,bowler,2
+892749,TH David,M,right-hand bat,right-arm offbreak,middle-order batter,2
+679567,BJ Dwarshuis,M,left-hand bat,left-arm fast-medium,bowler,2
+826915,NT Ellis,M,right-hand bat,right-arm fast-medium,bowler,2
+5334,AJ Finch,M,right-hand bat,slow left-arm orthodox,top-order batter,2
+858809,A Gardner,F,right-hand bat,right-arm offbreak,allrounder,2
+418423,KJ Garth,F,right-hand bat,right-arm medium-fast,allrounder,2
+546629,H Graham,F,right-hand bat,right-arm medium-fast,allrounder,2
+1076713,C Green,M,right-hand bat,right-arm fast-medium,batting allrounder,2
+334337,PSP Handscomb,M,right-hand bat,,batter,2
+381268,GM Harris,F,right-hand bat,right-arm offbreak,allrounder,2
+268889,RL Haynes,F,left-hand bat,left-arm medium,batter,2
+288284,JR Hazlewood,M,left-hand bat,right-arm fast-medium,bowler,2
+530011,TM Head,M,left-hand bat,right-arm offbreak,middle-order batter,2
+275486,AJ Healy,F,right-hand bat,,wicketkeeper batter,2
+662235,JP Inglis,M,right-hand bat,,wicketkeeper batter,2
+374936,JL Jonassen,F,left-hand bat,slow left-arm orthodox,bowler,2
+215155,UT Khawaja,M,left-hand bat,right-arm medium,top-order batter,2
+944393,AM King,M,right-hand bat,legbreak,allrounder,2
+774219,MP Kuhnemann,M,left-hand bat,slow left-arm orthodox,bowler,2
+787987,M Labuschagne,M,right-hand bat,legbreak,batting allrounder,2
+329336,MM Lanning,F,right-hand bat,right-arm medium,top-order batter,2
+1176132,P Litchfield,F,left-hand bat,legbreak,batter,2
+272279,NM Lyon,M,right-hand bat,right-arm offbreak,bowler,2
+272450,MR Marsh,M,right-hand bat,right-arm medium,allrounder,2
+325026,GJ Maxwell,M,right-hand bat,right-arm offbreak,batting allrounder,2
+603410,BR McDermott,M,right-hand bat,right-arm medium,wicketkeeper batter,2
+381311,TM McGrath,F,right-hand bat,right-arm medium,allrounder,2
+381258,BL Mooney,F,left-hand bat,,wicketkeeper batter,2
+1193685,T Murphy,M,left-hand bat,right-arm offbreak,bowler,2
+376169,MG Neser,M,right-hand bat,right-arm medium-fast,bowling allrounder,2
+275487,EA Perry,F,right-hand bat,right-arm fast-medium,allrounder,2
+722303,MT Renshaw,M,left-hand bat,right-arm offbreak,batter,2
+793441,Aamer Jamal,M,right-hand bat,right-arm medium,allrounder,7
+922941,Abdullah Shafique,M,right-hand bat,right-arm offbreak,top-order batter,7
+734459,Abrar Ahmed,M,right-hand bat,legbreak googly,bowler,7
+623977,Agha Salman,M,right-hand bat,right-arm offbreak,allrounder,7
+941805,Aiman Anwer,F,right-hand bat,right-arm medium-fast,bowler,7
+572645,Aliya Riaz,M,right-hand bat,right-arm medium,allrounder,7
+725879,Anam Amin,F,left-hand bat,slow left-arm orthodox,bowler,7
+494230,Asif Ali,M,right-hand bat,right-arm offbreak,middle-order batter,7
+1214078,Ayesha Naseem,F,right-hand bat,right-arm medium-fast,top-order batter,7
+39037,Azhar Ali,M,right-hand bat,legbreak,top-order batter,7
+348144,Babar Azam,M,right-hand bat,right-arm offbreak,batter,7
+260229,Bismah Maroof,M,left-hand bat,legbreak,allrounder,7
+572638,Diana Baig,M,right-hand bat,right-arm medium,bowler,7
+681117,Faheem Ashraf,M,left-hand bat,right-arm medium,bowling allrounder,7
+512191,Fakhar Zaman,M,left-hand bat,slow left-arm orthodox,opening batter,7
+1144886,Fatima Sana,F,right-hand bat,right-arm medium,bowling allrounder,7
+40250,Fawad Alam,M,left-hand bat,slow left-arm orthodox,top-order batter,7
+1080011,Ghulam Fatima,F,right-hand bat,legbreak,bowler,7
+1144870,Gull Feroza,F,right-hand bat,,wicketkeeper batter,7
+1168651,Haider Ali,M,right-hand bat,,middle-order batter,7
+1161606,Haris Rauf,M,right-hand bat,right-arm fast,bowler,7
+318788,Haris Sohail,M,left-hand bat,slow left-arm orthodox,middle-order batter,7
+681305,Hasan Ali,M,right-hand bat,right-arm medium-fast,bowler,7
+480603,Iftikhar Ahmed,M,right-hand bat,right-arm offbreak,middle-order batter,7
+568276,Imam-ul-Haq,M,left-hand bat,,top-order batter,7
+572633,Iram Javed,M,right-hand bat,right-arm medium-fast,middle-order batter,7
+346680,Javeria Khan,F,right-hand bat,right-arm offbreak,top-order batter,7
+361856,Kainat Imtiaz,F,right-hand bat,right-arm medium-fast,bowler,7
+623636,Kamran Ghulam,M,right-hand bat,slow left-arm orthodox,allrounder,7
+716733,Khushdil Shah,M,left-hand bat,slow left-arm orthodox,middle-order batter,7
+556684,Mir Hamza,M,left-hand bat,left-arm medium,bowler,7
+1158175,Mohammad Ali,M,right-hand bat,right-arm medium-fast,bowler,7
+1205559,Mohammad Haris,M,right-hand bat,right-arm offbreak,middle-order batter,7
+1158100,Mohammad Hasnain,M,right-hand bat,right-arm fast,bowler,7
+348148,Mohammad Nawaz (3),M,left-hand bat,slow left-arm orthodox,allrounder,7
+323389,Mohammad Rizwan,M,right-hand bat,,wicketkeeper batter,7
+1185538,Mohammad Wasim (1),M,right-hand bat,right-arm fast-medium,allrounder,7
+941795,Muneeba Ali,F,left-hand bat,,wicketkeeper batter,7
+361854,Nahida Khan,F,right-hand bat,right-arm medium,opening batter,7
+1158088,Naseem Shah,M,right-hand bat,right-arm fast,bowler,7
+398438,MA Agarwal,M,right-hand bat,right-arm offbreak,batter,6
+960673,K Anjali Sarvani,F,left-hand bat,left-arm medium,bowler,6
+1125976,Arshdeep Singh,M,left-hand bat,left-arm medium-fast,bowler,6
+26421,R Ashwin,M,right-hand bat,right-arm offbreak,bowling allrounder,6
+694211,Avesh Khan,M,right-hand bat,right-arm fast-medium,bowler,6
+1204925,SD Bahadur,M,left-hand bat,right-arm medium,bowling allrounder,6
+529436,KS Bharat,M,right-hand bat,,wicketkeeper batter,6
+883423,T Bhatia,M,right-hand bat,,wicketkeeper batter,6
+960715,YH Bhatia,F,left-hand bat,slow left-arm orthodox,middle-order batter,6
+442048,E Bisht,M,left-hand bat,slow left-arm orthodox,bowler,6
+625383,JJ Bumrah,M,right-hand bat,right-arm fast,bowler,6
+430246,YS Chahal,M,right-hand bat,legbreak googly,bowler,6
+447261,DL Chahar,M,right-hand bat,right-arm medium,bowler,6
+960845,H Deol,F,right-hand bat,"right-arm offbreak,legbreak googly",middle-order batter,6
+28235,S Dhawan,M,left-hand bat,right-arm offbreak,opening batter,6
+1060380,RD Gaikwad,M,right-hand bat,right-arm offbreak,batter,6
+709635,RS Gayakwad,M,right-hand bat,slow left-arm orthodox,bowler,6
+1212830,RM Ghosh,F,right-hand bat,right-arm medium,wicketkeeper batter,6
+53932,J Goswami,F,right-hand bat,right-arm fast-medium,bowler,6
+961107,D Hemalatha,F,right-hand bat,right-arm offbreak,top-order batter,6
+497121,DJ Hooda,M,right-hand bat,right-arm offbreak,allrounder,6
+720471,Ishan Kishan,M,left-hand bat,,wicketkeeper batter,6
+642519,SS Iyer,M,right-hand bat,"right-arm offbreak,legbreak googly",top-order batter,6
+851403,VR Iyer,M,left-hand bat,right-arm medium,allrounder,6
+234675,RA Jadeja,M,left-hand bat,slow left-arm orthodox,allrounder,6
+30045,KD Karthik,M,right-hand bat,right-arm offbreak,wicketkeeper batter,6
+372317,H Kaur,F,right-hand bat,right-arm offbreak,allrounder,6
+1255411,AB Kaur,F,right-hand bat,,,6
+253802,V Kohli,M,right-hand bat,right-arm medium,top-order batter,6
+559235,Kuldeep Yadav,M,left-hand bat,left-arm wrist-spin,bowler,6
+326016,B Kumar,M,right-hand bat,right-arm medium,bowler,6
+597806,S Mandhana,F,left-hand bat,right-arm offbreak,opening batter,6
+556529,S Meghana,M,right-hand bat,right-arm medium,opening batter,6
+709839,Meghna Singh,M,right-hand bat,right-arm medium,bowler,6
+481896,Mohammed Shami,M,right-hand bat,right-arm fast,bowler,6
+940973,Mohammed Siraj,M,right-hand bat,right-arm fast,bowler,6
+1289983,KP Navgire,F,right-hand bat,,middle-order batter,6
+442145,S Pandey,F,right-hand bat,right-arm medium,allrounder,6
+625371,HH Pandya,M,right-hand bat,right-arm medium-fast,allrounder,6
+931581,RR Pant,M,left-hand bat,,wicketkeeper batter,6
+236489,DJ Malan,M,left-hand bat,legbreak,top-order batter,1
+459257,TS Mills,M,right-hand bat,left-arm fast,bowler,1
+24598,EJG Morgan,M,left-hand bat,right-arm medium,middle-order batter,1
+464626,C Overton,M,right-hand bat,right-arm medium-fast,bowling allrounder,1
+510530,J Overton,M,right-hand bat,right-arm fast,bowling allrounder,1
+653695,MW Parkinson,M,right-hand bat,legbreak,bowler,1
+362710,DA Payne,M,right-hand bat,left-arm fast-medium,bowler,1
+887207,OJ Pope,M,right-hand bat,,middle-order batter,1
+1027781,MJ Potts,M,right-hand bat,right-arm fast-medium,bowler,1
+244497,AU Rashid,M,right-hand bat,legbreak,bowler,1
+1263691,Rehan Ahmed,M,right-hand bat,legbreak googly,bowling allrounder,1
+527776,OE Robinson,M,right-hand bat,right-arm medium-fast,bowler,1
+303669,JE Root,M,right-hand bat,"right-arm offbreak,legbreak",top-order batter,1
+298438,JJ Roy,M,right-hand bat,,opening batter,1
+669365,PD Salt,M,right-hand bat,right-arm offbreak,wicketkeeper batter,1
+515905,NR Sciver,F,right-hand bat,right-arm medium,allrounder,1
+254238,A Shrubsole,F,right-hand bat,right-arm medium,bowler,1
+874277,BF Smith,F,right-hand bat,right-arm offbreak,allrounder,1
+311158,BA Stokes,M,left-hand bat,right-arm fast-medium,allrounder,1
+457279,OP Stone,M,right-hand bat,right-arm fast,bowler,1
+461632,RJW Topley,M,right-hand bat,left-arm fast-medium,bowler,1
+296597,JM Vince,M,right-hand bat,right-arm medium,batter,1
+308251,DJ Willey,M,left-hand bat,left-arm fast-medium,bowling allrounder,1
+517572,L Winfield-Hill,F,right-hand bat,,batter,1
+247235,CR Woakes,M,right-hand bat,right-arm fast-medium,allrounder,1
+1146066,IECM Wong,F,right-hand bat,right-arm fast-medium,bowler,1
+573170,L Wood,M,left-hand bat,left-arm fast-medium,bowling allrounder,1
+351588,MA Wood,M,right-hand bat,right-arm fast,bowler,1
+254168,DN Wyatt,F,right-hand bat,right-arm offbreak,top-order batter,1
+784367,KIC Asalanka,M,left-hand bat,right-arm offbreak,batting allrounder,8
+318853,AMCJK Athapaththu,F,left-hand bat,right-arm offbreak,batting allrounder,8
+958691,KNA Bandara,M,right-hand bat,legbreak,middle-order batter,8
+552152,PVD Chameera,M,right-hand bat,right-arm fast,bowler,8
+300628,LD Chandimal,M,right-hand bat,right-arm offbreak,wicketkeeper batter,8
+465793,DM de Silva,M,right-hand bat,right-arm offbreak,allrounder,8
+557764,NND de Silva,F,right-hand bat,right-arm slow-medium,middle-order batter,8
+784379,PWH de Silva,M,right-hand bat,legbreak,allrounder,8
+429754,N Dickwella,M,left-hand bat,,wicketkeeper batter,8
+923703,WK Dilhari,F,right-hand bat,right-arm offbreak,batting allrounder,8
+848109,L Embuldeniya,M,left-hand bat,slow left-arm orthodox,bowler,8
+786925,AM Fernando,M,right-hand bat,right-arm medium-fast,bowler,8
+629080,B Fernando,M,right-hand bat,left-arm medium-fast,bowler,8
+366725,BOP Fernando,M,right-hand bat,legbreak,top-order batter,8
+1074333,MNK Fernando,M,right-hand bat,right-arm offbreak,batter,8
+465783,MVT Fernando,M,right-hand bat,left-arm medium-fast,bowler,8
+784369,WIA Fernando,M,right-hand bat,right-arm medium-fast,opening batter,8
+1290105,RMVD Gunaratne,F,right-hand bat,right-arm medium-fast,batter,8
+345821,MD Gunathilaka,M,left-hand bat,right-arm offbreak,allrounder,8
+422871,NGRP Jayasuriya,M,right-hand bat,slow left-arm orthodox,bowler,8
+1028665,P Jayawickrama,M,right-hand bat,slow left-arm orthodox,bowler,8
+340004,KADA Kanchana,F,right-hand bat,right-arm fast-medium,bowling allrounder,8
+623695,C Karunaratne,M,right-hand bat,right-arm medium-fast,bowling allrounder,8
+227772,FDM Karunaratne,M,left-hand bat,right-arm medium,opening batter,8
+631722,H Karunaratne,F,right-hand bat,right-arm medium,,8
+557731,WGAKK Kulasuriya,F,left-hand bat,right-arm fast-medium,bowler,8
+784375,CBRLS Kumara,M,left-hand bat,right-arm fast,bowler,8
+631609,BMSM Kumari,F,left-hand bat,slow left-arm orthodox,bowler,8
+49619,RAS Lakmal,M,right-hand bat,right-arm fast-medium,bowler,8
+792519,D Lakshan,M,left-hand bat,right-arm medium-fast,batting allrounder,8
+681681,J Liyanage,M,right-hand bat,right-arm fast-medium,batting allrounder,8
+557839,H Madavi,F,left-hand bat,right-arm slow-medium,top-order batter,8
+793007,D Madushanka,M,right-hand bat,left-arm medium-fast,bowler,8
+49764,AD Mathews,M,right-hand bat,right-arm medium,allrounder,8
+629074,BKG Mendis,M,right-hand bat,legbreak,wicketkeeper batter,8
+784373,PHKD Mendis,M,left-hand bat,"right-arm offbreak,slow left-arm orthodox",allrounder,8
+629084,RTM Mendis,M,right-hand bat,right-arm offbreak,allrounder,8
+1075863,K Mishara,M,left-hand bat,right-arm offbreak,opening batter,8
+924289,S Nisansala,F,left-hand bat,slow left-arm orthodox,,8
+1028655,P Nissanka,M,right-hand bat,,top-order batter,8
+372116,T Bavuma,M,right-hand bat,right-arm medium,middle-order batter,3
+482506,A Bosch,F,right-hand bat,right-arm medium,batting allrounder,3
+600731,T Brits,F,right-hand bat,,opening batter,3
+276681,T Chetty,F,right-hand bat,,wicketkeeper batter,3
+486672,TB de Bruyn,M,right-hand bat,right-arm medium-fast,middle-order batter,3
+939249,N de Klerk,F,right-hand bat,right-arm medium,allrounder,3
+379143,Q de Kock,M,left-hand bat,,wicketkeeper batter,3
+1163087,A Dercksen,M,right-hand bat,right-arm medium,allrounder,3
+54646,M du Preez,F,right-hand bat,,top-order batter,3
+230852,D Elgar,M,left-hand bat,slow left-arm orthodox,opening batter,3
+324260,SJ Erwee,M,left-hand bat,right-arm offbreak,opening batter,3
+553249,BC Fortuin,M,right-hand bat,slow left-arm orthodox,bowler,3
+593936,L Goodall,F,left-hand bat,right-arm medium,middle-order batter,3
+432960,SR Harmer,M,right-hand bat,right-arm offbreak,bowler,3
+269280,RR Hendricks,M,right-hand bat,right-arm offbreak,opening batter,3
+276997,S Ismail,F,left-hand bat,right-arm fast-medium,bowler,3
+499254,S Jafta,F,right-hand bat,,wicketkeeper,3
+696401,M Jansen,M,right-hand bat,left-arm fast,bowling allrounder,3
+351836,M Kapp,F,right-hand bat,right-arm medium,allrounder,3
+387261,A Khaka,F,right-hand bat,right-arm medium,bowler,3
+364368,M Klaas,F,right-hand bat,right-arm medium,bowler,3
+436757,H Klaasen,M,right-hand bat,right-arm offbreak,wicketkeeper batter,3
+483484,L Lee,F,right-hand bat,right-arm medium-fast,opening batter,3
+487007,S Luus,F,right-hand bat,legbreak,allrounder,3
+379776,SSB Magala,M,right-hand bat,right-arm fast-medium,bowler,3
+267724,KA Maharaj,M,right-hand bat,slow left-arm orthodox,bowler,3
+605680,JN Malan,M,right-hand bat,legbreak,top-order batter,3
+600498,AK Markram,M,right-hand bat,right-arm offbreak,opening batter,3
+321777,DA Miller,M,left-hand bat,right-arm offbreak,middle-order batter,3
+971203,N Mlaba,F,right-hand bat,slow left-arm orthodox,bowler,3
+698189,PWA Mulder,M,right-hand bat,right-arm medium,allrounder,3
+542023,L Ngidi,M,right-hand bat,right-arm fast-medium,bowler,3
+481979,A Nortje,M,right-hand bat,right-arm fast,bowler,3
+629578,R Ntozakhe,F,right-hand bat,right-arm offbreak,bowler,3
+486679,D Olivier,M,right-hand bat,right-arm fast-medium,bowler,3
+265564,WD Parnell,M,left-hand bat,left-arm medium-fast,bowler,3
+485676,KD Petersen,M,right-hand bat,legbreak,top-order batter,3
+540316,AL Phehlukwayo,M,left-hand bat,right-arm medium-fast,bowling allrounder,3
+327830,D Pretorius,M,right-hand bat,right-arm medium-fast,bowling allrounder,3
+550215,K Rabada,M,left-hand bat,right-arm fast,bowler,3
+463208,MV Waldron,M,right-hand bat,,wicketkeeper batter,29
+928059,B White,M,right-hand bat,legbreak,bowler,29
+364343,CA Young,M,right-hand bat,right-arm fast-medium,bowler,29
+554691,AR Patel,M,left-hand bat,slow left-arm orthodox,bowling allrounder,6
+390481,HV Patel,M,right-hand bat,right-arm medium,bowler,6
+630972,Poonam Yadav,F,right-hand bat,legbreak googly,bowler,6
+917159,M Prasidh Krishna,M,right-hand bat,right-arm fast-medium,bowler,6
+32540,CA Pujara,M,right-hand bat,legbreak,top-order batter,6
+422108,KL Rahul,M,right-hand bat,,opening batter,6
+54273,M Raj,F,right-hand bat,legbreak,top-order batter,6
+556537,S Rana,F,right-hand bat,right-arm offbreak,bowling allrounder,6
+1175441,Ravi Bishnoi,M,right-hand bat,legbreak googly,bowler,6
+960853,Renuka Singh,F,right-hand bat,right-arm medium-fast,bowler,6
+883405,JI Rodrigues,F,right-hand bat,right-arm offbreak,middle-order batter,6
+425943,SV Samson,M,right-hand bat,,wicketkeeper batter,6
+1163695,KR Sen,M,right-hand bat,right-arm fast,bowler,6
+1182523,Shafali Verma,F,right-hand bat,right-arm offbreak,opening batter,6
+1159711,Shahbaz Ahmed,M,left-hand bat,slow left-arm orthodox,allrounder,6
+597811,DB Sharma,F,left-hand bat,right-arm offbreak,allrounder,6
+34102,RG Sharma,M,right-hand bat,right-arm offbreak,top-order batter,6
+1079848,Shivam Mavi,M,right-hand bat,right-arm fast-medium,bowler,6
+1070173,Shubman Gill,M,right-hand bat,right-arm offbreak,opening batter,6
+475281,SN Thakur,M,right-hand bat,right-arm medium,bowler,6
+446763,RA Tripathi,M,right-hand bat,right-arm medium,top-order batter,6
+1246528,Umran Malik,M,right-hand bat,right-arm fast,bowler,6
+390484,JD Unadkat,M,right-hand bat,left-arm medium,bowler,6
+709837,DP Vaidya,F,left-hand bat,legbreak googly,allrounder,6
+883413,P Vastrakar,M,right-hand bat,right-arm medium,bowler,6
+452044,GH Vihari,M,right-hand bat,right-arm offbreak,batting allrounder,6
+719715,Washington Sundar,M,left-hand bat,right-arm offbreak,bowling allrounder,6
+447587,J Yadav,M,right-hand bat,right-arm offbreak,bowler,6
+960737,RP Yadav,F,right-hand bat,slow left-arm orthodox,bowler,6
+446507,SA Yadav,M,right-hand bat,"right-arm medium,right-arm offbreak",batter,6
+376116,UT Yadav,M,right-hand bat,right-arm fast,bowler,6
+638256,JN Nkomo,F,right-hand bat,right-arm medium-fast,,9
+453277,VM Nyauchi,M,right-hand bat,right-arm fast-medium,bowler,9
+1135025,L Phiri,F,right-hand bat,right-arm offbreak,,9
+951781,M Shumba,M,left-hand bat,slow left-arm orthodox,top-order batter,9
+1080012,N Sibanda,F,left-hand bat,left-arm medium,,9
+299572,Sikandar Raza,M,right-hand bat,right-arm offbreak,batting allrounder,9
+392945,DT Tiripano,M,right-hand bat,right-arm fast-medium,bowler,9
+538593,L Tshuma,F,right-hand bat,right-arm medium,,9
+722321,TE Tsiga,M,right-hand bat,right-arm medium,wicketkeeper batter,9
+55870,SC Williams,M,left-hand bat,slow left-arm orthodox,middle-order batter,9
+1208951,GE Plimmer,F,right-hand bat,right-arm medium,middle-order batter,5
+380956,MJG Rippon,M,right-hand bat,left-arm wrist-spin,allrounder,5
+543550,HM Rowe,F,right-hand bat,right-arm medium,bowler,5
+502714,MJ Santner,M,left-hand bat,slow left-arm orthodox,bowling allrounder,5
+233007,AE Satterthwaite,F,left-hand bat,right-arm offbreak,top-order batter,5
+959769,BV Sears,M,right-hand bat,right-arm medium-fast,bowler,5
+962831,HB Shipley,M,right-hand bat,right-arm medium-fast,bowler,5
+559066,IS Sodhi,M,right-hand bat,legbreak,bowler,5
+232364,TG Southee,M,right-hand bat,right-arm medium-fast,bowler,5
+380929,LMM Tahuhu,F,right-hand bat,right-arm medium-fast,bowler,5
+38699,LRPL Taylor,M,right-hand bat,right-arm offbreak,middle-order batter,5
+854909,BM Tickner,M,right-hand bat,right-arm medium-fast,bowler,5
+233713,N Wagner,M,left-hand bat,left-arm medium-fast,bowler,5
+277906,KS Williamson,M,right-hand bat,right-arm offbreak,top-order batter,5
+547749,WA Young,M,right-hand bat,right-arm offbreak,top-order batter,5
+348056,KR Mayers,M,left-hand bat,right-arm medium,batting allrounder,4
+906783,OC McCoy,M,left-hand bat,left-arm fast-medium,bowler,4
+474201,NY McLean,F,right-hand bat,,top-order batter,4
+530814,MJ Mindley,M,right-hand bat,right-arm fast-medium,bowler,4
+55187,A Mohammed,F,right-hand bat,right-arm offbreak,bowler,4
+670045,G Motie,M,left-hand bat,slow left-arm orthodox,bowler,4
+355355,CN Nation,F,right-hand bat,,middle-order batter,4
+677081,KMA Paul,M,right-hand bat,right-arm fast-medium,allrounder,4
+274921,V Permaul,M,right-hand bat,slow left-arm orthodox,bowler,4
+914467,A Phillip,M,right-hand bat,right-arm fast-medium,bowler,4
+230559,KA Pollard,M,right-hand bat,right-arm medium,batting allrounder,4
+604302,N Pooran,M,left-hand bat,right-arm offbreak,wicketkeeper batter,4
+820351,R Powell,M,right-hand bat,right-arm medium-fast,middle-order batter,4
+769517,K Ramharack,M,left-hand bat,right-arm offbreak,bowler,4
+450101,RA Reifer,M,left-hand bat,left-arm medium-fast,allrounder,4
+230553,KAJ Roach,M,right-hand bat,right-arm fast-medium,bowler,4
+1325398,A Scantlebury,F,right-hand bat,,middle-order batter,4
+1230583,KC Schultz,F,right-hand bat,slow left-arm orthodox,bowler,4
+1199304,JNT Seales,M,left-hand bat,right-arm fast-medium,bowler,4
+355356,SC Selman,F,right-hand bat,right-arm medium,bowler,4
+1325395,Shaunte Carrington,F,right-hand bat,right-arm offbreak,bowler,4
+677077,R Shepherd,M,right-hand bat,right-arm fast-medium,bowling allrounder,4
+1206110,K Sinclair,M,right-hand bat,right-arm offbreak,bowler,4
+820691,OF Smith,M,right-hand bat,right-arm fast-medium,bowling allrounder,4
+355359,SR Taylor,F,right-hand bat,right-arm offbreak,allrounder,4
+248920,DC Thomas,M,right-hand bat,right-arm medium,top-order batter,4
+443263,HR Walsh,M,left-hand bat,legbreak googly,bowler,4
+1325401,A Williams,F,right-hand bat,right-arm medium,allrounder,4
+769427,RS Williams,F,right-hand bat,,wicketkeeper batter,4
+1268281,Zaida James,M,left-hand bat,slow left-arm orthodox,allrounder,4
+774223,JA Richardson,M,right-hand bat,right-arm fast,bowler,2
+272262,KW Richardson,M,right-hand bat,right-arm fast-medium,bowler,2
+826901,DR Sams,M,right-hand bat,left-arm fast-medium,allrounder,2
+420314,M Schutt,F,right-hand bat,right-arm fast-medium,bowler,2
+267192,SPD Smith,M,right-hand bat,legbreak googly,middle-order batter,2
+311592,MA Starc,M,left-hand bat,left-arm fast,bowler,2
+325012,MP Stoinis,M,right-hand bat,right-arm medium,batting allrounder,2
+1071705,A Sutherland,F,right-hand bat,right-arm medium-fast,allrounder,2
+590326,MJ Swepson,M,right-hand bat,legbreak,bowler,2
+230193,MS Wade,M,left-hand bat,right-arm medium,wicketkeeper batter,2
+219889,DA Warner,M,left-hand bat,legbreak,opening batter,2
+381305,A Wellington,F,right-hand bat,legbreak,bowler,2
+379504,A Zampa,M,right-hand bat,legbreak googly,bowler,2
+1194795,M Pathirana,M,right-hand bat,right-arm medium,bowler,8
+371185,GWHM Perera,F,left-hand bat,right-arm medium-fast,middle-order batter,8
+335236,KDU Prabodhani,F,right-hand bat,left-arm medium,bowler,8
+826689,Pramod Madushan,M,right-hand bat,right-arm medium-fast,bowler,8
+342619,PBB Rajapaksa,M,left-hand bat,right-arm medium,top-order batter,8
+499594,CAK Rajitha,M,right-hand bat,right-arm medium-fast,bowler,8
+429180,OU Ranasinghe,M,left-hand bat,right-arm offbreak,bowling allrounder,8
+434844,I Ranaweera,F,left-hand bat,slow left-arm orthodox,bowler,8
+493860,MAA Sanjeewani,F,right-hand bat,,wicketkeeper batter,8
+1321016,EMKNH Senavirathna,F,right-hand bat,,middle-order batter,8
+684561,Tharika Sewwandi,F,left-hand bat,left-arm medium-fast,bowler,8
+437316,MD Shanaka,M,right-hand bat,right-arm medium,allrounder,8
+683433,M Shehani,F,right-hand bat,"right-arm medium-fast,right-arm offbreak",bowler,8
+1321015,HDRS Silva,F,right-hand bat,legbreak,bowler,8
+1138316,M Theekshana,M,right-hand bat,right-arm offbreak,bowler,8
+301236,HDRL Thirimanne,M,left-hand bat,right-arm medium-fast,top-order batter,8
+955235,N Thushara,M,right-hand bat,right-arm medium-fast,bowler,8
+370040,JDF Vandersay,M,right-hand bat,legbreak,bowler,8
+442310,PM Weerakkody,F,left-hand bat,,,8
+1152427,DN Wellalage,M,left-hand bat,slow left-arm orthodox,bowler,8
+941803,Nashra Sandhu,F,right-hand bat,slow left-arm orthodox,bowler,7
+333355,Nida Dar,F,right-hand bat,right-arm offbreak,bowling allrounder,7
+238672,Noman Ali,M,left-hand bat,slow left-arm orthodox,bowler,7
+941777,Omaima Sohail,F,right-hand bat,right-arm offbreak,top-order batter,7
+1315572,Sadaf Shamas,F,right-hand bat,right-arm medium,,7
+1204917,Sadia Iqbal,F,left-hand bat,slow left-arm orthodox,bowler,7
+1062812,Sajid Khan,M,right-hand bat,right-arm offbreak,bowling allrounder,7
+227760,Sarfaraz Ahmed,M,right-hand bat,right-arm offbreak,wicketkeeper batter,7
+652687,Saud Shakeel,M,left-hand bat,left-arm slow,middle-order batter,7
+922943,Shadab Khan,M,right-hand bat,legbreak,allrounder,7
+1072470,Shaheen Shah Afridi,M,left-hand bat,left-arm fast,bowler,7
+1203995,Shahnawaz Dahani,M,right-hand bat,right-arm fast-medium,bowler,7
+233901,Shan Masood,M,left-hand bat,right-arm medium-fast,opening batter,7
+362356,Sidra Ameen,F,right-hand bat,right-arm medium-fast,opening batter,7
+500733,Sidra Nawaz,F,right-hand bat,,wicketkeeper batter,7
+1204959,Tuba Hassan,F,right-hand bat,legbreak,bowler,7
+1341174,Umm-e-Hani,F,right-hand bat,right-arm offbreak,,7
+647667,Usama Mir,M,right-hand bat,legbreak,bowler,7
+348152,Usman Qadir,M,left-hand bat,legbreak,bowler,7
+43685,Yasir Shah,M,right-hand bat,legbreak googly,bowler,7
+433614,Zahid Mahmood,M,right-hand bat,legbreak,bowler,7
+605661,RD Rickelton,M,left-hand bat,,wicketkeeper batter,3
+318845,RR Rossouw,M,left-hand bat,right-arm offbreak,top-order batter,3
+939229,TS Sekhukhune,F,left-hand bat,right-arm fast-medium,bowler,3
+379145,T Shamsi,M,right-hand bat,left-arm wrist-spin,bowler,3
+698143,L Sipamla,M,right-hand bat,right-arm fast-medium,bowler,3
+503123,A Steyn,F,right-hand bat,right-arm medium-fast,opening batter,3
+595978,T Stubbs,M,right-hand bat,right-arm offbreak,wicketkeeper batter,3
+481803,GA Stuurman,M,right-hand bat,right-arm fast-medium,bowler,3
+453370,CL Tryon,M,right-hand bat,slow left-arm orthodox,allrounder,3
+939253,D Tucker,F,right-hand bat,right-arm offbreak,allrounder,3
+337790,HE van der Dussen,M,right-hand bat,legbreak,top-order batter,3
+595004,K Verreynne,M,right-hand bat,right-arm offbreak,wicketkeeper batter,3
+379887,LB Williams,M,left-hand bat,right-arm medium-fast,bowler,3
+922481,L Wolvaardt,F,right-hand bat,,opening batter,3
+318842,K Zondo,M,right-hand bat,right-arm offbreak,batter,3
+550187,Zubayr Hamza,M,right-hand bat,legbreak,batter,3
